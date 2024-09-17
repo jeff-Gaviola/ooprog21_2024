@@ -9,6 +9,6 @@ public class FirstAddressExercise {
         System.out.println("Company: Motorola, Inc.");
         System.out.println("500 W Monroe St");
         System.out.println("Chicago, IL 60661");
-        System.out.println("USA");
+        System.out.println("USA: Motorola, Inc.");
     }
 }
